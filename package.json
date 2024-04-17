@@ -12,7 +12,7 @@
   "dependencies": {
     "prop-types": "^15.8.1",
     "react": "18.2.0",
-    "react-native": "0.73.0"
+    "react-native": "0.73.6"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
